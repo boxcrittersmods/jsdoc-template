@@ -1,0 +1,39 @@
+{
+	"name": "bcmc-jsdoc-template",
+	"version": "0.0.1",
+	"description": "JSDoc temnplate for use with BCMC Documentation",
+	"main": "./template/publish.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"test": "jsdoc -c test/jsdoc.json"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/boxcrittersmods/jsdoc-template.git"
+	},
+	"keywords": [
+		"boxcritters",
+		"boxcrittersmods",
+		"bcmc",
+		"jsdoc",
+		"css"
+	],
+	"author": "TumbleGamer",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/boxcrittersmods/jsdoc-template/issues"
+	},
+	"homepage": "https://github.com/boxcrittersmods/jsdoc-template#readme",
+	"dependencies": {},
+	"devDependencies": {
+		"@jsdoc/util": "^0.2.2",
+		"common-path-prefix": "^3.0.0",
+		"fs": "0.0.1-security",
+		"jsdoc": "^3.6.6",
+		"lodash": "^4.17.20",
+		"path": "^0.12.7",
+		"taffydb": "^2.7.3"
+	}
+}

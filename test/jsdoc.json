@@ -1,0 +1,22 @@
+{
+	"opts": {
+		"destination": "test/docs",
+		"readme": "test/README.md",
+		"template": "../template"
+	},
+	"plugins": [
+		"plugins/markdown"
+	],
+	"templates": {
+		"systemName": "BCMC Test",
+		"copyright": "<script src=\"https://res.boxcrittersmods.ga/footer.js\"></script>",
+		"search": true,
+		"includeDate": false
+	},
+	"source": {
+		"include": [
+			"test"
+		],
+		"includePattern": ".+\\.(m|c)?js(doc|x)?$"
+	}
+}
