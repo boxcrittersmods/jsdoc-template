@@ -9,7 +9,7 @@
 	],
 	"templates": {
 		"systemName": "BCMC Test",
-		"copyright": "<script src=\"https://res.boxcrittersmods.ga/footer.js\"></script>",
+		"copyright": "<script src=\"https://res.bcmc.ga/footer.js\"></script>",
 		"search": true,
 		"includeDate": false
 	},
