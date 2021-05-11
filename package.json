@@ -32,7 +32,7 @@
 		"common-path-prefix": "^3.0.0",
 		"fs": "0.0.1-security",
 		"jsdoc": "^3.6.6",
-		"lodash": "^4.17.20",
+		"lodash": "^4.17.21",
 		"path": "^0.12.7",
 		"taffydb": "^2.7.3"
 	}
